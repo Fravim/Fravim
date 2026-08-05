@@ -7,7 +7,7 @@
 ---
 ## About Me
 
-I am a **Computer Science** student working as an Innovation Intern, building digital solutions and automation using the **Power Platform** (Power Apps and Power Automate). My daily routine involves digitizing manual processes into intuitive apps and automated workflows, as well as system integration with **SharePoint** and **Python** scripts (such as an automated WhatsApp messaging tool built for 400+ contacts).
+I am a **Computer Science** student working as an Innovation Intern, building digital solutions and automation using the **Power Platform** (Power Apps and Power Automate). My daily routine involves digitizing manual processes into intuitive apps and automated workflows, as well as system integration with **SharePoint** and **Python** scripts.
 
 Currently, I am focusing my studies on **Java**, working towards a career in **Back-end / Full-stack Development**.
 
