@@ -1,35 +1,14 @@
 <!-- NAVEGAÇÃO DE IDIOMA / LANGUAGE TOGGLE -->
-<div align="right">
-  <a href="#resumo-pt">🇧🇷 Português</a> | <a href="#resumo-en">🇺🇸 English</a>
-</div>
-
 <br />
 
 <div align="center">
-  <h1>Olá, eu sou o Fravim! 👋</h1>
+  <h1>Hi, I'm Fravim! 👋</h1>
   <h3>Flávio Morilla Alves</h3>
-  <p>Estudante de Ciência da Computação | Desenvolvedor Low-Code & Entusiasta Java / Web</p>
+  <p>Computer Science Student | Low-Code Developer & Java / Web Enthusiast</p>
 </div>
 
 ---
-
-<a name="resumo-pt"></a>
-## 🇧🇷 Sobre Mim (Português)
-
-Sou graduando em **Ciência da Computação** e atuo como Estagiário de Inovação, desenvolvendo soluções digitais e automações com **Power Platform** (Power Apps e Power Automate). Minha rotina envolve substituir processos manuais por aplicativos intuitivos e fluxos automatizados, além de integrar sistemas com **SharePoint** e scripts em **Python**.
-
-Atualmente, meu foco de estudos está voltado para **Java**, buscando me consolidar no desenvolvimento **Back-end / Full-stack**.
-
-- 🎓 **Educação:** Bacharelado em Ciência da Computação.
-- 💼 **Atuação atual:** Desenvolvedor Low-Code / Automação de Processos.
-- ☕ **Foco atual de estudos:** Java & Ecossistema Web (TypeScript, JavaScript, HTML, CSS).
-- 🛠️ **Experiência prática:** Power Platform, Python, SQL/NoSQL, POO.
-- 🎮 **Fora do código:** Apaixonado por jogos, animes e livros.
-
----
-
-<a name="resumo-en"></a>
-## 🇺🇸 About Me (English)
+## About Me
 
 I am a **Computer Science** student working as an Innovation Intern, building digital solutions and automation using the **Power Platform** (Power Apps and Power Automate). My daily routine involves digitizing manual processes into intuitive apps and automated workflows, as well as system integration with **SharePoint** and **Python** scripts (such as an automated WhatsApp messaging tool built for 400+ contacts).
 
