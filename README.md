@@ -4,7 +4,6 @@
   <p>Computer Science Student | Low-Code Developer & Java / Web Enthusiast</p>
 </div>
 
----
 ## About Me
 
 I am a **Computer Science** student working as an Innovation Intern, building digital solutions and automation using the **Power Platform** (Power Apps and Power Automate). My daily routine involves digitizing manual processes into intuitive apps and automated workflows, as well as system integration with **SharePoint** and **Python** scripts.
@@ -16,8 +15,6 @@ Currently, I am focusing my studies on **Java**, working towards a career in **B
 - ☕ **Current Focus:** Java & Web Ecosystem (TypeScript, JavaScript, HTML, CSS).
 - 🛠️ **Practical Experience:** Power Platform, Python, SQL/NoSQL, OOP.
 - 🎮 **Beyond Coding:** Passionate about gaming, anime, and reading.
-
----
 
 ## 🛠️ Tech Stack
 
