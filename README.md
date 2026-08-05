@@ -6,8 +6,9 @@
 <br />
 
 <div align="center">
-  <h1>Olá, eu sou o Flávio! 👋</h1>
-  <p>Desenvolvedor de Software focado em soluções robustas com <b>Java</b> e ecossistema Web.</p>
+  <h1>Olá, eu sou o Fravim! 👋</h1>
+  <h3>Flávio Morilla Alves</h3>
+  <p>Estudante de Ciência da Computação | Desenvolvedor Low-Code & Entusiasta Java / Web</p>
 </div>
 
 ---
@@ -15,57 +16,48 @@
 <a name="resumo-pt"></a>
 ## 🇧🇷 Sobre Mim (Português)
 
-Sou desenvolvedor focado no desenvolvimento de aplicações modernas, com ênfase em **Java** para o back-end e tecnologias como **TypeScript/JavaScript** e **Python** no dia a dia. Gosto de resolver problemas reais com código limpo, arquitetura escalável e interfaces funcionais.
+Sou graduando em **Ciência da Computação** e atuo como Estagiário de Inovação, desenvolvendo soluções digitais e automações com **Power Platform** (Power Apps e Power Automate). Minha rotina envolve substituir processos manuais por aplicativos intuitivos e fluxos automatizados, além de integrar sistemas com **SharePoint** e scripts em **Python**.
 
-- ☕ **Foco principal:** Desenvolvimento Back-end com Java.
-- 🛠️ **Stack diária:** Java, TypeScript, JavaScript, HTML, CSS e Python.
-- 🎯 **Objetivo:** Criar software eficiente, aprender novas tecnologias e colaborar com projetos desafiadores.
-- ⚡ **Fora do código:** Entusiasta de tecnologia, jogos e inovação.
+Atualmente, meu foco de estudos está voltado para **Java**, buscando me consolidar no desenvolvimento **Back-end / Full-stack**.
+
+- 🎓 **Educação:** Bacharelado em Ciência da Computação.
+- 💼 **Atuação atual:** Desenvolvedor Low-Code / Automação de Processos.
+- ☕ **Foco atual de estudos:** Java & Ecossistema Web (TypeScript, JavaScript, HTML, CSS).
+- 🛠️ **Experiência prática:** Power Platform, Python, SQL/NoSQL, POO.
+- 🎮 **Fora do código:** Apaixonado por jogos, animes e livros.
 
 ---
 
 <a name="resumo-en"></a>
 ## 🇺🇸 About Me (English)
 
-I am a software developer focused on building modern applications, with an emphasis on **Java** for back-end development alongside **TypeScript/JavaScript** and **Python**. I enjoy solving real-world problems with clean code, scalable architecture, and functional user interfaces.
+I am a **Computer Science** student working as an Innovation Intern, building digital solutions and automation using the **Power Platform** (Power Apps and Power Automate). My daily routine involves digitizing manual processes into intuitive apps and automated workflows, as well as system integration with **SharePoint** and **Python** scripts (such as an automated WhatsApp messaging tool built for 400+ contacts).
 
-- ☕ **Main Focus:** Back-end development with Java.
-- 🛠️ **Daily Tech Stack:** Java, TypeScript, JavaScript, HTML, CSS, and Python.
-- 🎯 **Goal:** Build efficient software, learn new technologies, and collaborate on challenging projects.
-- ⚡ **Beyond Coding:** Tech enthusiast, gaming fan, and constantly learning.
+Currently, I am focusing my studies on **Java**, working towards a career in **Back-end / Full-stack Development**.
+
+- 🎓 **Education:** B.S. in Computer Science.
+- 💼 **Current Role:** Low-Code Developer / Process Automation.
+- ☕ **Current Focus:** Java & Web Ecosystem (TypeScript, JavaScript, HTML, CSS).
+- 🛠️ **Practical Experience:** Power Platform, Python, SQL/NoSQL, OOP.
+- 🎮 **Beyond Coding:** Passionate about gaming, anime, and reading.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas / Tech Stack
 
-### Core Language
+### Main Focus & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Web & Scripts
+### Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub / GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fravim&show_icons=true&theme=radial&hide_border=true" alt="Flávio's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fravim&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</div>
+### Low-Code & Automation
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
 ---
-
-## 📫 Vamos nos conectar? / Connect with me
-
-<div align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
