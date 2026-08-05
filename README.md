@@ -1,9 +1,6 @@
 <!-- NAVEGAÇÃO DE IDIOMA / LANGUAGE TOGGLE -->
-<br />
-
 <div align="center">
   <h1>Hi, I'm Fravim! 👋</h1>
-  <h3>Flávio Morilla Alves</h3>
   <p>Computer Science Student | Low-Code Developer & Java / Web Enthusiast</p>
 </div>
 
