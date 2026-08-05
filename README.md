@@ -1,5 +1,5 @@
 <!-- NAVEGAÇÃO DE IDIOMA / LANGUAGE TOGGLE -->
-<div align="center">
+<div align="left">
   <h1>Hi, I'm Fravim! 👋</h1>
   <p>Computer Science Student | Low-Code Developer & Java / Web Enthusiast</p>
 </div>
@@ -19,7 +19,7 @@ Currently, I am focusing my studies on **Java**, working towards a career in **B
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas / Tech Stack
+## 🛠️ Tech Stack
 
 ### Main Focus & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
